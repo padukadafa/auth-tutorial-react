@@ -37,7 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## NOTES
 
-```
 This project based on youtube tutorial [Next Auth V5 - Advanced Guide (2024)
 ](https://www.youtube.com/watch?v=1MTyCvS05V4&t=1147s) and i have done on 4:19:52. or resend email
-```
